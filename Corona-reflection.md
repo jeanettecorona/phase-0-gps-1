@@ -16,5 +16,5 @@
 
 
 ### How was your first experience of pairing in a GPS?
-* It was great despite not having a partner. Laura went at a good, fast pace. She also introduced me to a new command `git push -u origin <newbranch>`, which points the remote to the <newbranch>.
+* It was great despite not having a partner. Laura went at a good, fast pace. She also introduced me to a new command `git push -u origin <newbranch>`, which points the remote to the newbranch.
 
